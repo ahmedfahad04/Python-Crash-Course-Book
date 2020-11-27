@@ -19,3 +19,8 @@ if ("BMW" == cars[1])or("Audi" == cars[0]):
     print("Its a true Statement")
 else:
     print("Its False")
+
+if "Bmw" not in cars:
+    print("Corolla is missing from the list")
+else:
+    print("It is in the list")
