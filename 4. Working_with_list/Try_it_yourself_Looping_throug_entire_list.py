@@ -12,3 +12,4 @@ for animal in animals:
     print(animal.title()+' is a furious animal!')
 
 print("All have four legs")
+print("---------------------------------------")
