@@ -19,3 +19,5 @@ if num%2 == 0:
     print("Its even.")
 else:
     print("Its odd.")
+
+
