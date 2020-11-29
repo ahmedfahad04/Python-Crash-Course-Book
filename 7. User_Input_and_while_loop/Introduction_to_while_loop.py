@@ -15,4 +15,8 @@ msg = ''
 
 while msg != 'quit':
     msg = input(promt)
-    print(msg)
+    if msg != 'quit':
+        print(msg.strip())
+    if msg.strip() == 'quit':
+        break
+
