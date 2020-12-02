@@ -21,7 +21,7 @@ def make_album(artist, title, track):
 
 print(make_album("Atif Aslam","Kese bata un....",""))
 print(make_album("Asif","Bangladesh egiye jao..",""))
-print(make_album("Aiub Baccu","Bondhu asche bohudi pore",'25'))
+print(make_album("Aiub Baccu","Bondhu asche bohu din pore",'25'))
 
 print("-----------------------------------------------")
 #8.8 user albums
